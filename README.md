@@ -6,6 +6,7 @@
 Base Address: http://localhost:{port}
 
 
+
 `GET /api/get-all-employees`
 
 **You pass in**: the above route to get all employee details in the database.
@@ -36,6 +37,7 @@ HTTP/1.1 404 NotFound();
 ```
 
 
+
 `GET /api/get-employee`
 
 **You pass in**: the above route to get an employee
@@ -59,6 +61,7 @@ HTTP/1.1 400 BadRequest() OR HTTP/1.1 404 NotFound();
 ```
 
 
+
 `POST /api/add-employee`
 
 **You pass in**: the above route to add an employee
@@ -77,6 +80,7 @@ HTTP/1.1 400 BadRequest();
 ```
 
 
+
 `POST /api/update-employee`
 
 **You pass in**: the above route to update an employee
@@ -93,6 +97,7 @@ Content-Type: application/text
 ```
 HTTP/1.1 400 BadRequest() OR 404 NotFound();
 ```
+
 
 
 `POST /api/delete-employee`
