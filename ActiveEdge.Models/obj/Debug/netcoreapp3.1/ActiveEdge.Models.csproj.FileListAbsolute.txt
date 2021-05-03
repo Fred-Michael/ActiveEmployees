@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActiveEdge.Models\bin\Debug\netcoreapp3.1\ActiveEdge.Models.deps.json
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActiveEdge.Models\bin\Debug\netcoreapp3.1\ActiveEdge.Models.dll
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActiveEdge.Models\bin\Debug\netcoreapp3.1\ActiveEdge.Models.pdb
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActiveEdge.Models\obj\Debug\netcoreapp3.1\ActiveEdge.Models.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActiveEdge.Models\obj\Debug\netcoreapp3.1\ActiveEdge.Models.AssemblyInfo.cs
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActiveEdge.Models\obj\Debug\netcoreapp3.1\ActiveEdge.Models.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActiveEdge.Models\obj\Debug\netcoreapp3.1\ActiveEdge.Models.dll
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActiveEdge.Models\obj\Debug\netcoreapp3.1\ActiveEdge.Models.pdb

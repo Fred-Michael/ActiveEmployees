@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\bin\Debug\netcoreapp3.1\ActivEdge.Data.deps.json
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\bin\Debug\netcoreapp3.1\ActivEdge.Data.runtimeconfig.json
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\bin\Debug\netcoreapp3.1\ActivEdge.Data.runtimeconfig.dev.json
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\bin\Debug\netcoreapp3.1\ActivEdge.Data.dll
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\bin\Debug\netcoreapp3.1\ActivEdge.Data.pdb
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\bin\Debug\netcoreapp3.1\ActiveEdge.Models.dll
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\bin\Debug\netcoreapp3.1\ActiveEdge.Models.pdb
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\obj\Debug\netcoreapp3.1\ActivEdge.Data.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\obj\Debug\netcoreapp3.1\ActivEdge.Data.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\obj\Debug\netcoreapp3.1\ActivEdge.Data.AssemblyInfo.cs
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\obj\Debug\netcoreapp3.1\ActivEdge.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\obj\Debug\netcoreapp3.1\ActivEdge.Data.csproj.CopyComplete
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\obj\Debug\netcoreapp3.1\ActivEdge.Data.dll
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\obj\Debug\netcoreapp3.1\ActivEdge.Data.pdb
+C:\Users\hp\source\repos\ActivEdgeAssessment\ActivEdge.Data\obj\Debug\netcoreapp3.1\ActivEdge.Data.genruntimeconfig.cache
